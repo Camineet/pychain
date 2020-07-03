@@ -7,7 +7,7 @@ Thanks for taking a look at my blockchain project from my recent coursework. Thi
  - Block Validation
  - Chain Validation
 
-![](screenshots/mine_block.PNG)
+![](screenshots/mine_block().PNG)
 
 **Activate the virtual environment**
 
