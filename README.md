@@ -1,5 +1,4 @@
-Thanks for taking a look at my blockchain project from my recent coursework. Inside the ```tests``` folder above, you'll find JavaScript unit tests for functions I wrote as part of my studies. A description of these functions can be found below.
-
+Thanks for taking a look at my blockchain project from my recent coursework. This app is from a [course](https://www.udemy.com/course/python-js-react-blockchain/) I took by David Katz after doing a Python bootcamp.
 
 
 **Activate the virtual environment**
