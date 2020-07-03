@@ -1,5 +1,13 @@
-Thanks for taking a look at my blockchain project from my recent coursework. This app is from a [course](https://www.udemy.com/course/python-js-react-blockchain/) I took by David Katz after doing a Python bootcamp.
+Thanks for taking a look at my blockchain project from my recent coursework. This app is from a [course](https://www.udemy.com/course/python-js-react-blockchain/) I took by David Katz after doing a Python bootcamp. As simplistic as it looks, this app is actually a working blockchain and cryptocurrency with the usual functionalities of:
 
+ - Block Mining with Proof of Work
+ - Difficulty Adjustment
+ - Transactions
+ - Transaction Validation
+ - Block Validation
+ - Chain Validation
+
+![](frontend/src/assets/mine_block().png)
 
 **Activate the virtual environment**
 
