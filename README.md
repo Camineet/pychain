@@ -1,3 +1,7 @@
+Thanks for taking a look at my blockchain project from my recent coursework. Inside the ```tests``` folder above, you'll find JavaScript unit tests for functions I wrote as part of my studies. A description of these functions can be found below.
+
+
+
 **Activate the virtual environment**
 
 ```
