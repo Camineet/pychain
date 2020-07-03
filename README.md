@@ -15,6 +15,11 @@ Here is the ```mine_block()``` function inside of the ```block.py``` module foun
 
 You can see in the call to the ```crypto_hash()``` function that the usual data is used to create the hash for the newly mined block, including a timestamp, the previous block's hash, the current difficulty, a nonce, and the data (a transaction pool) to be recorded in the block. The ```mine_block()``` function calls the ```crypto_hash()``` function until a hash is created which has a count of leading zeroes matching the current difficulty level.
 
+The ```crypto_hash()``` function utilizes the Python hashlib module's ```sha256()``` function to cryptographically derive a hash from the given inputs as seen here.
+
+![](screenshots/crypto_hash().PNG)
+
+
 **Activate the virtual environment**
 
 ```
