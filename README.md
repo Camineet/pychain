@@ -9,11 +9,11 @@ Thanks for taking a look at my blockchain project from my recent coursework. Thi
 
 **Block Mining with Proof of Work**
 
-Here is the function inside of the ```block.py``` module found in ```backend/blockchain``` which performs proof of work and mines a block.
+Here is the ```mine_block()``` function inside of the ```block.py``` module found in ```backend/blockchain``` which performs proof of work and mines a block.
 
 ![](screenshots/mine_block().PNG)
 
-You can see in the call to the ```crypto_hash``` function that the usual data is used to create the hash for the newly mined block, including a timestamp, the previous block's hash, the current difficulty, a nonce, and the data (a transaction pool) to be recorded in the block.
+You can see in the call to the ```crypto_hash()``` function that the usual data is used to create the hash for the newly mined block, including a timestamp, the previous block's hash, the current difficulty, a nonce, and the data (a transaction pool) to be recorded in the block. The ```mine_block()``` function calls the ```crypto_hash()``` function until a hash is created which has a count of leading zeroes matching the current difficulty level.
 
 **Activate the virtual environment**
 
