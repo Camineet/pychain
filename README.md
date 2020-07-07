@@ -19,6 +19,7 @@ The ```crypto_hash()``` function utilizes the Python hashlib module's ```sha256(
 
 ![](screenshots/crypto_hash().PNG)
 
+More code walkthrough coming soon!
 
 **Activate the virtual environment**
 
