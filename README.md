@@ -1,4 +1,8 @@
-Thanks for taking a look at my blockchain project from my recent coursework. This app is from a [course](https://www.udemy.com/course/python-js-react-blockchain/) I took by David Katz after doing a Python bootcamp. As simplistic as it looks, this app is actually a working blockchain and cryptocurrency with the usual functionalities of:
+Thanks for taking a look at my blockchain project from my recent coursework. This app is from a [course](https://www.udemy.com/course/python-js-react-blockchain/) I took by David Katz after doing a Python bootcamp. I took this course and have linked the project on my CV to show that I can learn new tech stacks and also to show that if given new opportunities to do so, I will enthusiastically dive in and gain competency with which to serve.
+
+As with many projects that are built in Udemy courses, this app is just a code-along where you build it component by component along with the instructor through the videos in the course. It certainly isn't my engineering design. David Katz is a highly skilled Silicon Valley developer, and there's a big difference in what he and I can create. But with a lot of effort, I did understand everything in the many modules as I built them. 
+
+As simplistic as it looks, this app is actually a working blockchain and cryptocurrency with the usual functionalities of:
 
  - Block Mining with Proof of Work
  - Difficulty Adjustment
